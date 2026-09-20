@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hey, I'm Reynier 👋 | Market Insights in 5 Minutes
 
-<!--
-**reyniernunez-collab/reyniernunez-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I break down what's happening in the market. No hype, just what moves money.
 
-Here are some ideas to get you started:
+📈 **What I do:**
+- Weekly market breakdowns from my Instagram @reyniermarketinsights
+- Full playbook: what happened, why it matters, what I'm doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Live Blog:** https://reyniernunez-collab.github.io/reynier-market-insights
+📬 **Newsletter:** Coming soon - join from the blog
+📸 **Instagram:** [@reyniermarketinsights](https://instagram.com/reyniermarketinsights)
+
+---
+👇 **Check my pinned repo below to read the full analysis**
